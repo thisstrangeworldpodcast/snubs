@@ -10,7 +10,7 @@
 		
         <itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
         
-		<itunes:category text='TV & Film'>
+		<itunes:category text='TV &amp; Film'>
             <itunes:category text='Film History'/>
         </itunes:category>
 		
