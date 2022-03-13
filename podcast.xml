@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+    <channel>
+        <language>en-US</language>
+        <copyright>Copyright 2022 High Tops Media &amp; Caroline Young, Chris Masciarelli</copyright>
+        <title>Snubs</title>
+        <description><![CDATA[<p>Film nerds and hosts Caroline Young and Chris Masciarelli discuss their favorite films snubbed at the Oscars. Alternating each week, one host must convince the other of their favorite films' deserved nomination. They discuss Oscar films and their competitive awards years, while also trying to make each other laugh.</p>
+]]></description>
+        <link>https://snubs.hightops.media//</link>
+		
+        <itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+        
+		<itunes:category text='Sports'>
+            <itunes:category text='Basketball'/>
+        </itunes:category>
+		
+		<itunes:author>High Tops Media &amp; Caroline Young, Chris Masciarelli</itunes:author>
+        <itunes:owner>
+            <itunes:name>This Strange World Podcast Administrator</itunes:name>
+            <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
+        </itunes:owner>
+		
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>The American President</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_03_The-American-President.mp3' length='XXXXXXXX' type='audio/mpeg'/>
+			<guid>2022-03-09-The-American-President</guid>
+            <pubDate>Wed, 09 Mar 2022 10:08:46 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Rob Reiner and Aaron Sorkin’s <em>The American President</em> and the 1996 Academy Awards it was noticeably absent from. Chris wants Aaron Sorkin to know he should definitely consider writing a <em>Spider-Man</em> movie, and Caroline is a newfound member of the Paul Dano fan club, the <em>Dano</em>saurs.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>XXXX</itunes:duration>
+            <link>https://snubs.hightops.media//2022/03/09/The-American-President/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
+            <title>Harry Potter and the Prisoner of Azkaban</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_02_Harry-Potter-and-the-Prisoner-of-Azkaban.mp3' length='XXXXXXXX' type='audio/mpeg'/>
+			<guid>2022-03-01-Harry-Potter-and-the-Prisoner-of-Azkaban</guid>
+            <pubDate>Tue, 01 Mar 2022 23:09:23 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Alfonso Cuarón’s <em>Harry Potter and the Prisoner of Azkaban</em> and the 2005 Academy Awards it was noticeably absent from. Caroline wants the audience to know <em>Harry Potter</em> was her first love, and Chris would rather talk about the 2007 Amy Adams movie, <em>Enchanted</em>.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>XXXX</itunes:duration>
+            <link>https://snubs.hightops.media//2022/03/01/Harry-Potter-and-the-Prisoner-of-Azkaban/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
+            <title>Jurassic Park</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_01_Jurassic-Park.mp3' length='83018787' type='audio/mpeg'/>
+			<guid>2022-02-15-Jurassic-Park</guid>
+            <pubDate>Tue, 15 Feb 2022 21:50:40 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Steven Spielberg’s <em>Jurassic Park</em> and the 1994 Academy Awards it was noticeably absent from. Caroline wants the audience to know she fricken’ loves dinosaurs, and Chris won’t stop talking about Steve Martin movies.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3458</itunes:duration>
+            <link>https://snubs.hightops.media//2022/02/15/Jurassic-Park/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+    </channel>
+</rss>
