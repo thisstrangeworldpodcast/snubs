@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Oscars 2022 Recap</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_06_Oscars-2022-Recap.mp3' length='76901307' type='audio/mpeg'/>
+			<guid>2022-03-31-Oscars-2022-Recap</guid>
+            <pubDate>Thu, 31 Mar 2022 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, are joined by special guest Ana Tressel to recap the 2022 Oscars and the slap everyone can’t stop talking about. They also discuss their favorite films that were snubbed by the Academy this year, and where they’d make some changes. Chris’s allergies make him sound like he’s been chain smoking for 80 years, Caroline can’t believe the 3 hour Japanese Best Picture nominee was watched without her, and Ana wants Emma Stone and Andrew Garfield to get back together.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3208</itunes:duration>
+            <link>https://snubs.hightops.media//2022/03/31/Oscars-2022-Recap/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>6</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Avengers: Endgame</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_05_Avengers-Endgame.mp3' length='104941779' type='audio/mpeg'/>
 			<guid>2022-03-24-Avengers-Endgame</guid>
