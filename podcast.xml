@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Reservoir Dogs</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_08_Reservoir-Dogs.mp3' length='99478797' type='audio/mpeg'/>
+			<guid>2022-04-15-Reservoir-Dogs</guid>
+            <pubDate>Fri, 15 Apr 2022 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Quentin Tarantino’s <em>Reservoir Dogs</em> and the 1993 Academy Awards it was noticeably absent from. Caroline wishes Mr. Orange put more pressure on that wound, and Chris can’t stop doing his Al Pacino impression.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3044</itunes:duration>
+            <link>https://snubs.hightops.media//2022/04/15/Reservoir-Dogs/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Us</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_07_Us.mp3' length='45147012' type='audio/mpeg'/>
 			<guid>2022-04-07-Us</guid>
