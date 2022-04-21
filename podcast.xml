@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Big Lebowski</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_09_The-Big-Lebowski.mp3' length='51386616' type='audio/mpeg'/>
+			<guid>2022-04-21-The-Big-Lebowski</guid>
+            <pubDate>Thu, 21 Apr 2022 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss the Coen Brothers film, <em>The Big Lebowski</em>, and the 1999 Academy Awards it was noticeably absent from. Caroline has had enough of Warren Beatty, and Chris’s refusal to work on the Shabbas put a wrench in our podcasting schedule.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3218</itunes:duration>
+            <link>https://snubs.hightops.media//2022/04/21/The-Big-Lebowski/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>9</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Reservoir Dogs</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_08_Reservoir-Dogs.mp3' length='99478797' type='audio/mpeg'/>
 			<guid>2022-04-15-Reservoir-Dogs</guid>
