@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Star Wars: Episode III - Revenge of the Sith</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_10_Star-Wars-Episode-III-Revenge-of-the-Sith.mp3' length='57483156' type='audio/mpeg'/>
+			<guid>2022-04-28-Star-Wars-Episode-III-Revenge-of-the-Sith</guid>
+            <pubDate>Thu, 28 Apr 2022 00:15:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts, along with special guest Gavin Berger, discuss George Lucas’s <em>Star Wars: Episode III - Revenge of the Sith</em> and the 2006 Academy Awards it was noticeably absent from. Caroline doesn’t know why we are doing this episode, Chris can’t stop doing an Emperor Palpatine impression, and Gavin just wants to talk about <em>The Clone Wars</em>.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3600</itunes:duration>
+            <link>https://snubs.hightops.media//2022/04/28/Star-Wars-Episode-III-Revenge-of-the-Sith/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>10</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>The Big Lebowski</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_09_The-Big-Lebowski.mp3' length='51386616' type='audio/mpeg'/>
 			<guid>2022-04-21-The-Big-Lebowski</guid>
