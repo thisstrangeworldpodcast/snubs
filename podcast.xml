@@ -23,10 +23,33 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Forgetting Sarah Marshall</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_12_Forgetting-Sarah-Marshall.mp3' length='52336526' type='audio/mpeg'/>
+			<guid>2022-05-13-Forgetting-Sarah-Marshall</guid>
+            <pubDate>Fri, 13 May 2022 08:00:00 +0200</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss the Jason Segals’s writing feat, <em>Forgetting Sarah Marshall</em> and the 2009 Academy Awards it was noticeably absent from. Caroline wants nothing more than to have Bill Hader as a guest on the pod, and Chris’s Hawaiian name is Peyope.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3278</itunes:duration>
+            <link>https://snubs.hightops.media//2022/05/13/Forgetting-Sarah-Marshall/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>12</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>The Game</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_11_The-Game.mp3' length='50789469' type='audio/mpeg'/>
 			<guid>2022-05-05-The-Game</guid>
-            <pubDate>Thu, 05 May 2022 01:00:00 -0400</pubDate>
+            <pubDate>Thu, 05 May 2022 07:00:00 +0200</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss David Fincher’s <em>The Game</em> and the 1998 Academy Awards it was noticeably absent from. Chris can’t wait to talk about his deep passion for James Rebhorn and Caroline would’ve given up <em>The Game</em> immediately.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -49,7 +72,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Star Wars: Episode III - Revenge of the Sith</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_10_Star-Wars-Episode-III-Revenge-of-the-Sith.mp3' length='57483156' type='audio/mpeg'/>
 			<guid>2022-04-28-Star-Wars-Episode-III-Revenge-of-the-Sith</guid>
-            <pubDate>Thu, 28 Apr 2022 00:15:00 -0400</pubDate>
+            <pubDate>Thu, 28 Apr 2022 06:15:00 +0200</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts, along with special guest Gavin Berger, discuss George Lucas’s <em>Star Wars: Episode III - Revenge of the Sith</em> and the 2006 Academy Awards it was noticeably absent from. Caroline doesn’t know why we are doing this episode, Chris can’t stop doing an Emperor Palpatine impression, and Gavin just wants to talk about <em>The Clone Wars</em>.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -72,7 +95,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>The Big Lebowski</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_09_The-Big-Lebowski.mp3' length='51386616' type='audio/mpeg'/>
 			<guid>2022-04-21-The-Big-Lebowski</guid>
-            <pubDate>Thu, 21 Apr 2022 09:00:00 -0400</pubDate>
+            <pubDate>Thu, 21 Apr 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss the Coen Brothers film, <em>The Big Lebowski</em>, and the 1999 Academy Awards it was noticeably absent from. Caroline has had enough of Warren Beatty, and Chris’s refusal to work on the Shabbas put a wrench in our podcasting schedule.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -95,7 +118,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Reservoir Dogs</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_08_Reservoir-Dogs.mp3' length='99478797' type='audio/mpeg'/>
 			<guid>2022-04-15-Reservoir-Dogs</guid>
-            <pubDate>Fri, 15 Apr 2022 09:00:00 -0400</pubDate>
+            <pubDate>Fri, 15 Apr 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Quentin Tarantino’s <em>Reservoir Dogs</em> and the 1993 Academy Awards it was noticeably absent from. Caroline wishes Mr. Orange put more pressure on that wound, and Chris can’t stop doing his Al Pacino impression.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -118,7 +141,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Us</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_07_Us.mp3' length='45147012' type='audio/mpeg'/>
 			<guid>2022-04-07-Us</guid>
-            <pubDate>Thu, 07 Apr 2022 09:00:00 -0400</pubDate>
+            <pubDate>Thu, 07 Apr 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Jordan Peele’s <em>Us</em> and the 2020 Academy Awards it was noticeably absent from. Caroline wants Keke Palmer to bring that <em>Joyful Noise</em> magic to Jordan Peele’s upcoming film <em>Nope</em>, and Chris can’t stop talking about <em>Knives Out</em>.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -141,7 +164,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Oscars 2022 Recap</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_06_Oscars-2022-Recap.mp3' length='76901307' type='audio/mpeg'/>
 			<guid>2022-03-31-Oscars-2022-Recap</guid>
-            <pubDate>Thu, 31 Mar 2022 09:00:00 -0400</pubDate>
+            <pubDate>Thu, 31 Mar 2022 15:00:00 +0200</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, are joined by special guest Ana Tressel to recap the 2022 Oscars and the slap everyone can’t stop talking about. They also discuss their favorite films that were snubbed by the Academy this year, and where they’d make some changes. Chris’s allergies make him sound like he’s been chain smoking for 80 years, Caroline can’t believe the 3 hour Japanese Best Picture nominee was watched without her, and Ana wants Emma Stone and Andrew Garfield to get back together.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -164,7 +187,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Avengers: Endgame</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_05_Avengers-Endgame.mp3' length='104941779' type='audio/mpeg'/>
 			<guid>2022-03-24-Avengers-Endgame</guid>
-            <pubDate>Thu, 24 Mar 2022 02:05:00 -0400</pubDate>
+            <pubDate>Thu, 24 Mar 2022 07:05:00 +0100</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Marvel’s <em>Avengers: Endgame</em> and the 2020 Academy Awards it was noticeably absent from. Chris had the best theater experience of his life seeing this movie, and Caroline tries (and fails) to not sound like a pretentious film bro again.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -187,7 +210,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Zodiac</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_04_Zodiac.mp3' length='73332807' type='audio/mpeg'/>
 			<guid>2022-03-17-Zodiac</guid>
-            <pubDate>Thu, 17 Mar 2022 03:15:00 -0400</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:15:00 +0100</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss David Fincher’s <em>Zodiac</em> and the 2008 Academy Awards it was noticeably absent from. Caroline wants David Fincher to make serial killer movies until the end of time, and Chris probably wrote the Zodiac letters (but don’t tell anyone).</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -210,7 +233,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>The American President</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_03_The-American-President.mp3' length='80220129' type='audio/mpeg'/>
 			<guid>2022-03-09-The-American-President</guid>
-            <pubDate>Wed, 09 Mar 2022 10:08:46 -0500</pubDate>
+            <pubDate>Wed, 09 Mar 2022 16:08:46 +0100</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Rob Reiner and Aaron Sorkin’s <em>The American President</em> and the 1996 Academy Awards it was noticeably absent from. Chris wants <em>the</em> Aaron Sorkin to know he should definitely consider writing a <em>Spider-Man</em> movie, and Caroline is a newfound member of the Paul Dano fan club, the <em>Dano</em>saurs.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -233,7 +256,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Harry Potter and the Prisoner of Azkaban</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_02_Harry-Potter-and-the-Prisoner-of-Azkaban.mp3' length='89891349' type='audio/mpeg'/>
 			<guid>2022-03-01-Harry-Potter-and-the-Prisoner-of-Azkaban</guid>
-            <pubDate>Tue, 01 Mar 2022 23:09:23 -0500</pubDate>
+            <pubDate>Wed, 02 Mar 2022 05:09:23 +0100</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Alfonso Cuarón’s <em>Harry Potter and the Prisoner of Azkaban</em> and the 2005 Academy Awards it was noticeably absent from. Caroline wants the audience to know <em>Harry Potter</em> was her first love, and Chris would rather talk about the 2007 Amy Adams movie, <em>Enchanted</em>.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -244,7 +267,7 @@ You can follow for more High Tops Media content on Facebook, Instagram, and Twit
 Check out more podcasts on our website https://hightops.media</p>
 ]]></description>
             <itunes:duration>3745</itunes:duration>
-            <link>https://snubs.hightops.media//2022/03/01/Harry-Potter-and-the-Prisoner-of-Azkaban/</link>
+            <link>https://snubs.hightops.media//2022/03/02/Harry-Potter-and-the-Prisoner-of-Azkaban/</link>
 			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
             <itunes:explicit>true</itunes:explicit>
 			
@@ -256,7 +279,7 @@ Check out more podcasts on our website https://hightops.media</p>
             <title>Jurassic Park</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_01_Jurassic-Park.mp3' length='83530671' type='audio/mpeg'/>
 			<guid>2022-02-15-Jurassic-Park</guid>
-            <pubDate>Tue, 15 Feb 2022 21:50:40 -0500</pubDate>
+            <pubDate>Wed, 16 Feb 2022 03:50:40 +0100</pubDate>
             <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Steven Spielberg’s <em>Jurassic Park</em> and the 1994 Academy Awards it was noticeably absent from. Caroline wants the audience to know she fricken’ loves dinosaurs, and Chris won’t stop talking about Steve Martin movies.</p>
 
 <p>Don’t forget to follow on Instagram!<br />
@@ -267,7 +290,7 @@ You can follow for more High Tops Media content on Facebook, Instagram, and Twit
 Check out more podcasts on our website https://hightops.media</p>
 ]]></description>
             <itunes:duration>3480</itunes:duration>
-            <link>https://snubs.hightops.media//2022/02/15/Jurassic-Park/</link>
+            <link>https://snubs.hightops.media//2022/02/16/Jurassic-Park/</link>
 			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
             <itunes:explicit>true</itunes:explicit>
 			
