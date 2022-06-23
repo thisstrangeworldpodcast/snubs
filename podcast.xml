@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Ferris Bueller's Day Off</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_17_Ferris-Buellers-Day-Off.mp3' length='121882091' type='audio/mpeg'/>
+			<guid>2022-06-23-Ferris-Buellers-Day-Off</guid>
+            <pubDate>Thu, 23 Jun 2022 03:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss John Hughes’s <em>Ferris Bueller’s Day Off</em> and the 1987 Academy Awards it was noticeably absent from. Caroline is a modern day Jeanie Bueller, and Chris had an incredibly awkward interaction with Alan Ruck (Cameron) in a Burbank neighborhood.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3755</itunes:duration>
+            <link>https://snubs.hightops.media//2022/06/23/Ferris-Buellers-Day-Off/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>17</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Alien</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_16_Alien.mp3' length='115617453' type='audio/mpeg'/>
 			<guid>2022-06-16-Alien</guid>
