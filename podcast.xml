@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Wild Card: When Harry Met Sally.../Gone Girl</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_22_WC_When-Harry-Met-Sally-Gone-Girl.mp3' length='106363884' type='audio/mpeg'/>
+			<guid>2022-07-30-WC_When-Harry-Met-Sally-Gone-Girl</guid>
+            <pubDate>Sat, 30 Jul 2022 01:30:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this special Wild Card episode, our titular hosts discuss Rob Reiner’s <em>When Harry Met Sally…</em> and David Fincher’s <em>Gone Girl</em>, and the Academy Awards they were noticeably absent from. Usually these films are ineligible, but this week we made an exception. Caroline thinks Amy Dunne may have had a point, and Chris may riot if they ever tried to remake When Harry Met Sally.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3274</itunes:duration>
+            <link>https://snubs.hightops.media//2022/07/30/WC_When-Harry-Met-Sally-Gone-Girl/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1WildCard.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>22</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Scarface</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_21_Scarface.mp3' length='115809043' type='audio/mpeg'/>
 			<guid>2022-07-21-Scarface</guid>
