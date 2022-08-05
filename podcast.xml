@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Prisoners</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_23_Prisoners.mp3' length='110951209' type='audio/mpeg'/>
+			<guid>2022-08-05-Prisoners</guid>
+            <pubDate>Fri, 05 Aug 2022 14:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Denis Villeneuve’s, <em>Prisoners</em>, and the 2014 Academy Awards it was noticeably absent from. Caroline is the president of the Paul Dano fan club, and Chris can not pronounce “Denis Villeneuve” to save his life.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3416</itunes:duration>
+            <link>https://snubs.hightops.media//2022/08/05/Prisoners/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>23</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Wild Card: When Harry Met Sally.../Gone Girl</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_22_WC_When-Harry-Met-Sally-Gone-Girl.mp3' length='106363884' type='audio/mpeg'/>
 			<guid>2022-07-30-WC_When-Harry-Met-Sally-Gone-Girl</guid>
