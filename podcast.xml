@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Perks Of Being A Wallflower</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_25_The-Perks-Of-Being-A-Wallflower.mp3' length='114447542' type='audio/mpeg'/>
+			<guid>2022-08-19-The-Perks-Of-Being-A-Wallflower</guid>
+            <pubDate>Fri, 19 Aug 2022 06:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts, along with special guest Ryan Young (Caroline’s brother), discuss the teen drama <em>The Perks of Being a Wallflower</em>, and the 2013 Academy Awards it was noticeably absent from. Caroline sees herself in Emma Watson’s character (if she squints really really hard), Chris is a sucker for sentimentality, and Ryan has an unusual tunnel song.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3526</itunes:duration>
+            <link>https://snubs.hightops.media//2022/08/19/The-Perks-Of-Being-A-Wallflower/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>25</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Big Eyes</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_24_Big-Eyes.mp3' length='44415126' type='audio/mpeg'/>
 			<guid>2022-08-11-Big-Eyes</guid>
