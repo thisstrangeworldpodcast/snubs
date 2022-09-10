@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>History of the World: Part I (+ Venice Film Festival Recap)</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_28_History-of-the-World-Part-I.mp3' length='105780048' type='audio/mpeg'/>
+			<guid>2022-09-10-History-of-the-World-Part-I</guid>
+            <pubDate>Sat, 10 Sep 2022 01:30:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Mel Brooks’ <em>History of the World: Part I</em>, and the 1982 Academy Awards it was noticeably absent from. They also will be discussing the 2022 Venice International Film Festival, notably the <em>Don’t Worry Darling</em> drama that has been taking the internet by storm. Caroline absolutely roasts Chris for his movie choice, and Chris needs to do penance for throwing the pod off its rhythm.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3260</itunes:duration>
+            <link>https://snubs.hightops.media//2022/09/10/History-of-the-World-Part-I/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>28</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Rushmore</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_27_Rushmore.mp3' length='103671265' type='audio/mpeg'/>
 			<guid>2022-09-03-Rushmore</guid>
