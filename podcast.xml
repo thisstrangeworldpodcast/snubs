@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Emmys 2022 Recap</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_29_Emmys-2022-Recap.mp3' length='149702997' type='audio/mpeg'/>
+			<guid>2022-09-15-Emmys-2022-Recap</guid>
+            <pubDate>Thu, 15 Sep 2022 13:30:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, usually discuss their favorite films that were snubbed by the Oscars. On this special episode, our titular hosts recap the 2022 Emmys, and the surprise moments everyone can’t stop talking about. They also discuss some of the shows nominated, and which series and stars may have been snubbed this year. They recorded right after the show, so are both tired but excited to talk about one of their favorite events of the year. Chris could not be more happy for Michael Keaton, and Caroline believes Bill Hader was robbed.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>4610</itunes:duration>
+            <link>https://snubs.hightops.media//2022/09/15/Emmys-2022-Recap/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>29</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>History of the World: Part I (+ Venice Film Festival Recap)</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_28_History-of-the-World-Part-I.mp3' length='105780048' type='audio/mpeg'/>
 			<guid>2022-09-10-History-of-the-World-Part-I</guid>
