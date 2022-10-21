@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>A Quiet Place</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_34_A-Quiet-Place.mp3' length='141370024' type='audio/mpeg'/>
+			<guid>2022-10-21-A-Quiet-Place</guid>
+            <pubDate>Fri, 21 Oct 2022 01:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts, along with special guest Surina Belk-Gupta, discuss John Krasinski’s <em>A Quiet Place</em>, and the 2019 Academy Awards it was noticeably absent from. Caroline is notorious for screaming during horror movies, Chris would have been taken out by the monsters immediately if this was real, and Surina saw the sequel to <em>A Quiet Place</em> 6 times in the theater.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>4963</itunes:duration>
+            <link>https://snubs.hightops.media//2022/10/21/A-Quiet-Place/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>34</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>It (Chapter One)</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_33_It-Chapter-One.mp3' length='123528819' type='audio/mpeg'/>
 			<guid>2022-10-14-It-Chapter-One</guid>
