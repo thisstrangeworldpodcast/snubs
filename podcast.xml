@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Skeleton Twins</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_36_The-Skeleton-Twins.mp3' length='121336696' type='audio/mpeg'/>
+			<guid>2022-11-04-The-Skeleton-Twins</guid>
+            <pubDate>Fri, 04 Nov 2022 08:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Craig Johnson’s <em>The Skeleton Twins</em>, and the 2015 Academy Awards it was noticeably absent from. Caroline has a sweatshirt from an iconic moment from this film, and Chris sent a ridiculous Halloween text you just have to hear to believe.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3736</itunes:duration>
+            <link>https://snubs.hightops.media//2022/11/04/The-Skeleton-Twins/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>36</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Halloween (+ Montclair Film Festival Recap)</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_35_Halloween.mp3' length='147438631' type='audio/mpeg'/>
 			<guid>2022-10-28-Halloween</guid>
