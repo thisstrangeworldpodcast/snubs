@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Dazed and Confused + 2023 Oscar Nominees Chat</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_01_Dazed-and-Confused.mp3' length='134539937' type='audio/mpeg'/>
+			<guid>2022-02-18-Dazed-and-Confused</guid>
+            <pubDate>Sat, 18 Feb 2023 10:00:00 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Richard Linklater’s <em>Dazed and Confused</em> and the 1994 Academy Awards it was noticeably absent from. But first, they will be discussing the 2023 Oscar nominations and some of the snubs and surprises that came with the list. It’s a great year in movies and there’s much to talk about after their brief hiatus. Caroline is Team Fabelmans and Team Colin Farrell all the way, and Chris has an unexpected favorite Linklater film.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>4127</itunes:duration>
+            <link>https://snubs.hightops.media//2023/02/18/Dazed-and-Confused/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Frances Ha</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S01_43_Frances-Ha.mp3' length='41993955' type='audio/mpeg'/>
 			<guid>2022-12-24-Frances-Ha</guid>
