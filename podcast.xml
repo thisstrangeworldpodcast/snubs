@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Burn After Reading</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_04_Burn-After-Reading.mp3' length='35277922' type='audio/mpeg'/>
+			<guid>2023-04-07-Burn-After-Reading</guid>
+            <pubDate>Fri, 07 Apr 2023 01:45:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss The Coen Brothers’ <em>Burn After Reading</em> and the 2009 Academy Awards it was noticeably absent from. Caroline thinks Ron Howard is overrated and Chris wants Queen Consort Camilla on the $2 bill.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3014</itunes:duration>
+            <link>https://snubs.hightops.media//2023/04/07/Burn-After-Reading/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Groundhog Day</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_03_Groundhog-Day.mp3' length='45402366' type='audio/mpeg'/>
 			<guid>2023-03-24-Groundhog-Day</guid>
