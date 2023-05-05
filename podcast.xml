@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>American Psycho</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_07_American-Psycho.mp3' length='62597272' type='audio/mpeg'/>
+			<guid>2023-05-05-American-Psycho</guid>
+            <pubDate>Fri, 05 May 2023 07:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Mary Harron’s <em>American Psycho</em>, and the 2001 Academy Awards it was noticeably absent from. Caroline wants to bring back problematic faves and Chris wants everyone to know that Caroline chose this movie.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3461</itunes:duration>
+            <link>https://snubs.hightops.media//2023/05/05/American-Psycho/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>7</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Midsommar</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_06_Midsommar.mp3' length='43635574' type='audio/mpeg'/>
 			<guid>2023-04-28-Midsommar</guid>
