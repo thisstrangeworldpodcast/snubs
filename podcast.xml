@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Doors</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_12_The-Doors.mp3' length='102386835' type='audio/mpeg'/>
+			<guid>2023-06-23-The-Doors</guid>
+            <pubDate>Fri, 23 Jun 2023 10:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Oliver Stone’s <em>The Doors</em>, and the 1992 Academy Awards it was noticeably absent from. Caroline wouldn’t touch Jim Morrison with a 10 foot pole, and Chris is in love with Val Kilmer #NewShipAlert.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3159</itunes:duration>
+            <link>https://snubs.hightops.media//2023/06/23/The-Doors/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>12</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Portrait of a Lady on Fire</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_11_Portrait-of-a-Lady-on-Fire.mp3' length='38782566' type='audio/mpeg'/>
 			<guid>2023-06-10-Portrait-of-a-Lady-on-Fire</guid>
