@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Barbie and Oppenheimer: The Double Feature That Could</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_14_Barbie-and-Oppenheimer.mp3' length='128287142' type='audio/mpeg'/>
+			<guid>2023-07-26-Barbie-and-Oppenheimer</guid>
+            <pubDate>Wed, 26 Jul 2023 02:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this special episode, our titular hosts recap the historic 2023 Barbenheimer weekend which saw the release of Greta Gerwig’s <em>Barbie</em> and Christopher Nolan’s <em>Oppenheimer</em>. They discuss how they scheduled their double features, and what they thought about both of these great films. In addition, they talk about the SAG and WGA strikes that are affecting all of Hollywood, and what that means for Movie and TV fans for the foreseeable future.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3956</itunes:duration>
+            <link>https://snubs.hightops.media//2023/07/26/Barbie-and-Oppenheimer/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>14</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Bones and All</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_13_Bones-and-All.mp3' length='39373722' type='audio/mpeg'/>
 			<guid>2023-07-07-Bones-and-All</guid>
