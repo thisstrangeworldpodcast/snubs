@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Edge of Tomorrow</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_17_Edge-of-Tomorrow.mp3' length='118925885' type='audio/mpeg'/>
+			<guid>2023-09-08-Edge-of-Tomorrow</guid>
+            <pubDate>Fri, 08 Sep 2023 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Doug Liman’s <em>Edge of Tomorrow</em>, and the 2015 Academy Awards it was noticeably absent from. Caroline loves a good sci-fi romp, and has warmed up to Tom Cruise over the years, and Chris could not be happier to be discussing this film.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3665</itunes:duration>
+            <link>https://snubs.hightops.media//2023/09/08/Edge-of-Tomorrow/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>17</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Willy Wonka &amp; the Chocolate Factory</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_16_Willy-Wonka-and-the-Chocolate-Factory_v2.mp3' length='108119103' type='audio/mpeg'/>
 			<guid>2023-08-26-Willy-Wonka-and-the-Chocolate-Factory</guid>
