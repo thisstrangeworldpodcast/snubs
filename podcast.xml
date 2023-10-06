@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Shaun of the Dead</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_19_Shaun-of-the-Dead.mp3' length='57960954' type='audio/mpeg'/>
+			<guid>2023-10-06-Shaun-of-the-Dead</guid>
+            <pubDate>Fri, 06 Oct 2023 02:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts are joined by Gavin Berger to discuss Edgar Wright’s <em>Shaun of the Dead</em>, and the 2005 Academy Awards it was noticeably absent from. Caroline is anti-Bechdel test, Chris loves Downton Abbey, and Gavin has actually never seen a single movie.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>5000</itunes:duration>
+            <link>https://snubs.hightops.media//2023/10/06/Shaun-of-the-Dead/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>19</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Inside Man</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_18_Inside-Man.mp3' length='121584911' type='audio/mpeg'/>
 			<guid>2023-09-22-Inside-Man</guid>
