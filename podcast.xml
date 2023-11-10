@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The King of Comedy</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_21_The-King-of-Comedy.mp3' length='48111916' type='audio/mpeg'/>
+			<guid>2023-11-10-The-King-of-Comedy</guid>
+            <pubDate>Fri, 10 Nov 2023 00:45:00 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Martin Scorsese’s The King of Comedy, and the 1983 Academy Awards it was noticeably absent from. Caroline aspires to be like Coppola’s editor, and Chris and Marty have teamed up to save American Cinema.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3822</itunes:duration>
+            <link>https://snubs.hightops.media//2023/11/10/The-King-of-Comedy/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>21</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Nope</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_20_Nope.mp3' length='51958098' type='audio/mpeg'/>
 			<guid>2023-10-21-Nope</guid>
