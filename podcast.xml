@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Fight Club</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_22_Fight-Club.mp3' length='34936146' type='audio/mpeg'/>
+			<guid>2023-12-08-Fight-Club</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss David Fincher’s <em>Fight Club</em>, and the 1999 Academy Awards it was noticeably absent from. Caroline is ready to get tatted up, and Chris makes psychosis seem cute.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3065</itunes:duration>
+            <link>https://snubs.hightops.media//2023/12/08/Fight-Club/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>22</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>The King of Comedy</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_21_The-King-of-Comedy.mp3' length='48111916' type='audio/mpeg'/>
 			<guid>2023-11-10-The-King-of-Comedy</guid>
