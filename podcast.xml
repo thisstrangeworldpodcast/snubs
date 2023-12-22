@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Babylon</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_23_Babylon.mp3' length='59400162' type='audio/mpeg'/>
+			<guid>2023-12-22-Babylon</guid>
+            <pubDate>Fri, 22 Dec 2023 01:30:00 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts are joined by Josh Wahl to discuss Damien Chazelle’s Babylon, and the 2023 Academy Awards it was noticeably absent from. Caroline likes them a little seasoned, Chris learns that he actually DOES know about scores and if it’s Friday, Josh is watching Sorkin.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>4723</itunes:duration>
+            <link>https://snubs.hightops.media//2023/12/22/Babylon/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>23</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Fight Club</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_22_Fight-Club.mp3' length='34936146' type='audio/mpeg'/>
 			<guid>2023-12-08-Fight-Club</guid>
