@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>A League of Their Own</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_27_A-League-of-Their-Own.mp3' length='92896501' type='audio/mpeg'/>
+			<guid>2024-02-16-A-League-of-Their-Own</guid>
+            <pubDate>Fri, 16 Feb 2024 09:00:00 -0500</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts discuss Penny Marshall’s <em>A League of Their Own</em>, and the 1993 Academy Awards it was noticeably absent from. Caroline is hung up on LEAF Phoenix, Chris is fuming over both the end credits and <em>Argylle</em>, and they both commiserate over their failed little league careers.</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3870</itunes:duration>
+            <link>https://snubs.hightops.media//2024/02/16/A-League-of-Their-Own/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>27</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Silence</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_26_Silence.mp3' length='106816207' type='audio/mpeg'/>
 			<guid>2024-02-02-Silence</guid>
