@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Oscars 2024 Recap</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_29_Oscars-2024-Recap.mp3' length='120498637' type='audio/mpeg'/>
+			<guid>2024-03-13-Oscars-2024-Recap</guid>
+            <pubDate>Wed, 13 Mar 2024 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>On Snubs, film fans and co-hosts, Caroline Young and Chris Masciarelli, discuss their favorite films that were snubbed by the Oscars. On this episode, our titular hosts are joined by special guest Josh Wahl to discuss Hollywood’s Biggest Night! They talk Robert Downey Jr., Lily Gladstone and what Al Pacino’s eyes saw! And as this awards season comes to an end, they close out the second season of Snubs!</p>
+
+<p>Don’t forget to follow on Instagram!<br />
+https://www.instagram.com/snubspod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>5020</itunes:duration>
+            <link>https://snubs.hightops.media//2024/03/13/Oscars-2024-Recap/</link>
+			<itunes:image href='https://snubs.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>29</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Raising Arizona</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/SNB/SNB_S02_28_Raising-Arizona.mp3' length='99497857' type='audio/mpeg'/>
 			<guid>2024-03-01-Raising-Arizona</guid>
